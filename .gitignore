@@ -1,0 +1,7 @@
+.terraform/
+app/minikube-linux-amd64
+app/kubectl
+terraform.tfstate
+terraform.tfstate.backup
+my-key.pem
+*.exe
